@@ -5,11 +5,11 @@
 This project analyzes the popularity of Mr. Beast’s videos compared to other trending YouTube topics using a dataset of 41 popular keywords from 2007-2022. 
 Three visuals have been created:
 
-Bar Chart: Shows the number of trending videos per category. Despite Mr. Beast's popularity, he ranked 26th in trending video count in 2022. His bar is highlighted in blue, with key comparisons labeled to emphasize this finding.
+**Bar Chart**: Shows the number of trending videos per category. Despite Mr. Beast's popularity, he ranked 26th in trending video count in 2022. His bar is highlighted in blue, with key comparisons labeled to emphasize this finding.
 
-Line Graph: Tracks Mr. Beast's average views per year, showing a rise from 2019-2021, followed by a significant drop post-2021. The increase is shown in gray, and the decrease in bold tomato, with annotations highlighting these trends.
+**Line Graph**: Tracks Mr. Beast's average views per year, showing a rise from 2019-2021, followed by a significant drop post-2021. The increase is shown in gray, and the decrease in bold tomato, with annotations highlighting these trends.
 
-Scatterplot: Plots each keyword's average views per video against its view-to-like ratio. The graph is divided into color-coded quadrants (Green, Yellow, Red) to indicate performance relative to the median.
+**Scatterplot**: Plots each keyword's average views per video against its view-to-like ratio. The graph is divided into color-coded quadrants (Green, Yellow, Red) to indicate performance relative to the median.
 
 Textboxes were strategically placed to guide the viewer through our narrative, with Mr. Beast’s information in blue to maintain focus on the main subject.
 

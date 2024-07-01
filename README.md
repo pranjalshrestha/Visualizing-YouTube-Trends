@@ -1,4 +1,4 @@
-# Visualizing_YouTube_Trends
+# Visualizing YouTube Trends
 
 ### Documentation of Design Choices:
 

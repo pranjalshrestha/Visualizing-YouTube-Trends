@@ -2,8 +2,8 @@
 
 ### Documentation of Design Choices:
 
-This project analyzes the popularity of Mr. Beast’s videos compared to other trending YouTube topics using a dataset of 41 popular keywords from 2007-2022. **R-Shiny** & **ggplot2** have been used to create a dashboard, and Microsoft Excel has been utilized for data transformation. Three key visuals were created:
-Three visuals have been created:
+This project analyzes the popularity of Mr. Beast’s videos compared to other trending YouTube topics using a dataset of 41 popular keywords from 2007-2022. **R-Shiny** & **ggplot2** have been used to create a dashboard, and Microsoft Excel has been utilized for data transformation.
+Likewise, three key visuals have been created:
 
 1. **Bar Chart**: Shows the number of trending videos per category. Despite Mr. Beast's popularity, he ranked 26th in trending video count in 2022. His bar is highlighted in blue, with key comparisons labeled to emphasize this finding.
 

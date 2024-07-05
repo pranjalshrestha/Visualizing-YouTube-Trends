@@ -1,7 +1,5 @@
 # Visualizing YouTube Trends
 
-### Documentation of Design Choices:
-
 This project analyzes the popularity of Mr. Beast’s videos compared to other trending YouTube topics using a dataset of 41 popular keywords from 2007-2022. **R-Shiny** & **ggplot2** have been used to create a dashboard, and **Microsoft Excel** has been utilized for data transformation.
 Likewise, three key visuals have been created:
 

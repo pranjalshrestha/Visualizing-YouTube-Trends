@@ -21,7 +21,7 @@ Likewise, three key visuals have been created:
 
 ### Scatterplot
 - Plots each keyword's average views per video against its view-to-like ratio.
-- Color-coded quadrants (Green, Yellow, Red) indicate performance relative to the median.
+- Color-coded quadrants (Light-Green, Yellow, Pink) indicate performance relative to the median.
 
 <img width="838" alt="Screenshot 2024-07-01 at 5 37 13 PM" src="https://github.com/kr-muchiri/Python-mini-projects/assets/135492582/8f603c55-3d67-435e-b32a-23e5b6c317ca">
 

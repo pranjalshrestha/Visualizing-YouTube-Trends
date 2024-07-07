@@ -25,7 +25,7 @@ Likewise, three key visuals have been created:
 
 <img width="838" alt="Screenshot 2024-07-01 at 5 37 13 PM" src="https://github.com/kr-muchiri/Python-mini-projects/assets/135492582/8f603c55-3d67-435e-b32a-23e5b6c317ca">
 
+
 Textboxes are strategically placed to guide you through the narrative, with Mr. Beast's insights highlighted in blue to maintain focus on the main subject.
 
 ---
-
